@@ -1,0 +1,17 @@
+To check tasks:
+
+
+	
+Save all .java files in one folder
+	
+Compile the Mock.java program:
+	javac Mock.java
+	
+Compile all C1..C6 programs:
+	javac C1.java
+	javac C2.java
+	...
+	...
+	
+Check the programs:
+	java -ea Mock
